@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there!
 
-<!--
-**Blancher/Blancher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub page. I mostly post my web development projects on here such as my timer and shift cipher.
 
-Here are some ideas to get you started:
+### Memes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me when my code doesn't work
+
+![](https://media.tenor.com/htxQ5FpaEaMAAAAC/do-you-know-how-much-i-sacrifice-angry.gif)
+
+me when I see pre-ES6 JavaScript devs
+
+![](https://media.tenor.com/wIxFiobxxbIAAAAd/john-jonah-jameson-lol.gif)
