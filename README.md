@@ -1,5 +1,4 @@
 # Hello there!
-
 ## Welcome to my GitHub page. I mostly post my web development projects on here such as my timer and shift cipher.
 
 ### Memes
