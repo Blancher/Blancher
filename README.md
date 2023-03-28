@@ -1,6 +1,6 @@
 # Hello there!
 
-## Welcome to my GitHub page. I mostly post my web development projects on here such as my meme generator and dice game.
+## Welcome to my GitHub page. I mostly post my web development projects on here such as my meme generator and food game.
 
 ### Memes
 
