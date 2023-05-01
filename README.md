@@ -1,6 +1,6 @@
 # Hello there!
 
-## Welcome to my GitHub page. I mostly post my web development projects on here such as my e-commerce app and food game.
+## Welcome to my GitHub page. I mostly post my web development projects on here such as my e-commerce app and appointment planner.
 
 ### Memes
 
