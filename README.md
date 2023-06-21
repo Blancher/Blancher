@@ -1,6 +1,6 @@
 # Hello there!
 
-## Welcome to my GitHub page. I mostly post my web development projects on here such as my e-commerce app and appointment planner.
+## Welcome to my GitHub page. I mostly post my web development projects here such as my quiz app and Reddit client.
 
 ### Memes
 
