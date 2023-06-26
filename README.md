@@ -10,7 +10,7 @@ me when my code doesn't work
 
 me when my code finally works
 
-![](https://thumbs.gfycat.com/SpotlessCompassionateBrontosaurus-max-1mb.gif)
+![](https://media3.giphy.com/media/Zy7s96dP38MlQe3OjG/giphy.gif)
 
 me when I see pre-ES6 JavaScript devs
 
