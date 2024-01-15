@@ -1,6 +1,6 @@
 # Hello there!
 
-## Welcome to my GitHub page. I mostly post my web development projects here such as my quiz app and Reddit client.
+## Welcome to my GitHub page. I mostly post my web development projects here such as CinemaStatus and Cipherstruct.
 
 ### Memes
 
